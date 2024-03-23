@@ -15,13 +15,13 @@ The RationalNumbers class represents rational numbers and provides methods for v
 - absoluteValue: Computes the absolute value of the rational number.
 - toString: Returns a string representation of the rational number in the form "numerator/denominator".
 
-Part 2
+**Part 2**
 This Java program calculates the factorial of integers within the range 0 to 15. It demonstrates exception handling for handling invalid input and factorial calculation errors.
 
 FactorialException Class
 The FactorialException class extends the Exception class and is used for custom exception handling in cases related to factorial calculation errors. It has a constructor that accepts a message to be displayed when the exception is thrown.
 
-Part 3
+**Part 3**
 This Java program demonstrates the usage of a custom exception class NoMatchException. The exception is designed to handle cases where no match is found for a given input at a specific line number.
 
 NoMatchException Class
