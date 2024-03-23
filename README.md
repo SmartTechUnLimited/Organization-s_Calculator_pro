@@ -6,14 +6,14 @@ This Java program implements a simple rational numbers calculator. It allows per
 RationalNumbers Class
 The RationalNumbers class represents rational numbers and provides methods for various operations:
 
--Constructor: Initializes a rational number with a numerator and a non-zero denominator. It throws an exception if the denominator is zero.
--addition: Performs addition with another rational number.
--subtraction: Performs subtraction with another rational number.
--multiplication: Performs multiplication with another rational number.
--division: Performs division with another rational number. It throws an exception if the divisor's numerator is zero.
--convertToFloat: Converts the rational number to a floating-point number.
--absoluteValue: Computes the absolute value of the rational number.
--toString: Returns a string representation of the rational number in the form "numerator/denominator".
+- Constructor: Initializes a rational number with a numerator and a non-zero denominator. It throws an exception if the denominator is zero.
+- addition: Performs addition with another rational number.
+- subtraction: Performs subtraction with another rational number.
+- multiplication: Performs multiplication with another rational number.
+- division: Performs division with another rational number. It throws an exception if the divisor's numerator is zero.
+- convertToFloat: Converts the rational number to a floating-point number.
+- absoluteValue: Computes the absolute value of the rational number.
+- toString: Returns a string representation of the rational number in the form "numerator/denominator".
 Part 2
 This Java program calculates the factorial of integers within the range 0 to 15. It demonstrates exception handling for handling invalid input and factorial calculation errors.
 
