@@ -14,6 +14,7 @@ The RationalNumbers class represents rational numbers and provides methods for v
 - convertToFloat: Converts the rational number to a floating-point number.
 - absoluteValue: Computes the absolute value of the rational number.
 - toString: Returns a string representation of the rational number in the form "numerator/denominator".
+
 Part 2
 This Java program calculates the factorial of integers within the range 0 to 15. It demonstrates exception handling for handling invalid input and factorial calculation errors.
 
