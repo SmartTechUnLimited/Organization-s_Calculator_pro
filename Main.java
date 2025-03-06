@@ -1,6 +1,6 @@
 package Part1;
 
-public class Main_1 {
+public class Main{
     public static void main(String[] args) {
         // Ensure exactly four arguments are provided
         if (args.length != 4) {
